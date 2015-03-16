@@ -1,1 +1,5 @@
-5 6 3
+1:17: warning: shadowed declaration of a, the shadowed position is 1:13
+1:23: warning: shadowed declaration of a, the shadowed position is 1:13
+1:29: warning: shadowed declaration of a, the shadowed position is 1:13
+1:35: warning: shadowed declaration of a, the shadowed position is 1:29
+1:39: warning: shadowed declaration of x, the shadowed position is 1:31
